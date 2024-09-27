@@ -16,7 +16,7 @@ The project pulls random user data from the `randomuser.me` API and processes it
 
 ## System Architecture
 
-![System Architecture](https://github.com/Puravi2018/kafka-spark-data-engineering/blob/main/Data engineering architecture.png)
+![System Architecture](https://github.com/Puravi2018/kafka-spark-data-engineering/blob/main/Data%20engineering%20architecture.png)
 
 The project is structured into several components:
 
